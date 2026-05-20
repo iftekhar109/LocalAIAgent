@@ -7,7 +7,7 @@ This is a beginner project to build a local AI agent using Python. I have used O
 python3 -m venv venv
 source ./venv/bin/activate
 
-# Installinf Dependencies
+# Installing Dependencies
 pip install -r ./requirements.txt
 
 # Setup Ollama
